@@ -1,1 +1,29 @@
-
+<!doctype html>
+<head>
+    <title>SabingViper Tutorial</tilte>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Ryan Sturgess">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="WebsiteCSS1.css">
+	/!--Made By Ryan Stugress--/
+</head>
+<body>
+  <main>
+    <h1>Welcome to the SabingViper Tutorial</h1>
+    <p>This website provides tutorials made by SabingViper that are both free and paid</p>
+    <br />
+    <h2>Who Am I?</h2>
+    <p>I am Ryan Sturgess or known as SabingViper or Cybernite Viper. I am 15 years old and from New Zealand. I have been youtube since 2011
+    but eversince 2017 I have stopped recording for YouTube and move to recording tutorials that are both paid and free. My highest ranking
+    tutorial is "How To Create Cool Graphics For Your YouTube Channel". <a href="#">Read More About Me...</a></p>
+	</main>
+	<br />
+	<footer>
+		<h3>&copy; Copyright 2018</h3>
+	</footer>
+	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+	/!--Made By Ryan Stugress--/
+</body>
