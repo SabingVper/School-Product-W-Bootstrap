@@ -2,7 +2,26 @@
 
 /* Elements */
 
+ul {
+  list-style-type: none;
+  overflow: hidden;
+  background-color: #fff;
+}
+
+li {
+  float: right;
+	border-right: #000;
+}
+
+li:hover {
+	background-color: #111;
+}
+
 /* Classes */
+
+.active {
+  background-color: #279af1;
+}
 
 /* ID */
 
