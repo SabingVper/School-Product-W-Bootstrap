@@ -9,7 +9,7 @@ ul {
 }
 
 li {
-  float: right;
+  float: left;
 	border-right: #000;
 }
 
