@@ -9,12 +9,13 @@ ul {
 
 li {
   float: left;
-	border-right: #000;
-}
+	border-right:1px solid #bbb;
 
-li:hover {
+
+li a:hover:(.active) {
 	background-color: #111;
 }
+
 
 /* Classes */
 
